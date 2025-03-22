@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
@@ -25,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
