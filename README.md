@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0966-binary-subarrays-with-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
