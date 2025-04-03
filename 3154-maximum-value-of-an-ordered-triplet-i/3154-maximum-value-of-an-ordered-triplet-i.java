@@ -5,9 +5,9 @@ class Solution {
         {
             for(int j=i+1;j<nums.length;j++)
             {
-                for(int k=i+2;k<nums.length;k++)
+                for(int k=j+1;k<nums.length;k++)
                 {
-                    maxIndices=Math.max(maxIndices,(nums[i]-nums[j])*nums[k]);
+                    maxIndices=Math.max(maxIndices,(long)(nums[i]-nums[j])*nums[k]);
                 }
             }
         }
