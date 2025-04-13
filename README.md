@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
