@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2050-count-good-numbers](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
