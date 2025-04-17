@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
