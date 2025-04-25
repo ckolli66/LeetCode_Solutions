@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2915-count-of-interesting-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2915-count-of-interesting-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2915-count-of-interesting-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 ## Math
 |  |
 | ------- |
