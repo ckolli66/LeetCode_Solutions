@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1500-count-largest-group](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1500-count-largest-group) |
 | [2915-count-of-interesting-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0797-rabbits-in-forest](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1500-count-largest-group](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
