@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
