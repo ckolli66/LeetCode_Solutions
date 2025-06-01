@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
