@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1500-count-largest-group) |
 | [2915-count-of-interesting-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3201-distribute-candies-among-children-ii) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
