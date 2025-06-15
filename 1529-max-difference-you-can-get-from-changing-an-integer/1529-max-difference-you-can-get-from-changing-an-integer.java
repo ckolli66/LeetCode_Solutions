@@ -14,9 +14,10 @@ class Solution {
         }
         char xPicked_Min=' ';
         char yPicked_Min=' ';
-        if (s.charAt(0)!= '1') {
-            xPicked_Min = s.charAt(0);
-            yPicked_Min = '1';
+        if(s.charAt(0)!='1')
+        {
+            xPicked_Min=s.charAt(0);
+            yPicked_Min='1';
         }else{
         for(int i=1;i<s.length();i++)
         {
