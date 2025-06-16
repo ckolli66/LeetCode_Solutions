@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
