@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
