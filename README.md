@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/ckolli66/LeetCode_Solutions/tree/master/1500-count-largest-group) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Combinatorics
 |  |
@@ -138,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
