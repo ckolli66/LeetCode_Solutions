@@ -5,12 +5,7 @@ class Solution:
         """
         freq=[0,0,0]
         for i in nums:
-            if i == 0:
-                freq[0]+=1
-            elif i==1:  
-                freq[1]+=1
-            else :
-                freq[2]+=1
+            freq[i]+=1
         inx=0
         for i in range(freq[0]):
             nums[inx]=0
