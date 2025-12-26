@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ckolli66/LeetCode_Solutions/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -149,10 +152,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ckolli66/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ckolli66/LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
